@@ -1,0 +1,14 @@
+{
+"rType": "Modify",
+  "ritmNumber": "RITM4772812",
+  "fromEnv": "prod",
+  "toEnv": "prod",
+  "envClassifierToAdd": {
+    "prod1": "xlddep01,xlqdep01"
+  },
+  "envClassifierToDelete": {
+  },
+  "nexusURL": "/com/swacorp/opssuite/relay/idm-relay/",
+  "supportJob": "No",
+  "user": "swacat"
+}
