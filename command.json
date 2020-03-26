@@ -1,0 +1,7 @@
+{
+	"id": "id",
+	"mountPoint": {
+		"swaMount": "df -h /SWA/release_mgmt | tail -n 1",
+		"relMount": "df -h /opt/release_mgmt | tail -n 1"
+	}
+}
